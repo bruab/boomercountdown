@@ -1,0 +1,13 @@
+body {
+  margin: 40px;
+}
+
+.main {
+  font-family: "Ultra";
+  font-size: 40px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 20px;
+}
